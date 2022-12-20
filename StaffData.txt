@@ -1,0 +1,11 @@
+1
+Ram Lal
+28
+Male
+20000.0
+
+2
+Kamla Lal
+27
+FeMale
+20000.0
